@@ -1,0 +1,18 @@
+locale:
+  french: fr_FR.UTF-8
+  french_be: fr_BE.UTF-8
+  french_ca: fr_CA.UTF-8
+  french_ch: fr_CH.UTF-8
+  french_lu: fr_LU.UTF-8
+  german: de_DE.UTF-8
+  spanish: es_CU.UTF-8
+
+datetime:
+  format:
+    default: "%d %B %Y"
+    alt1: "%B %d, %Y"
+
+number:
+
+currency:
+
